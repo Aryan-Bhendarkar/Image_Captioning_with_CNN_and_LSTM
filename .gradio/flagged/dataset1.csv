@@ -1,0 +1,17 @@
+Upload Image,Generated Captions,timestamp
+.gradio\flagged\Upload Image\316b032df35892254030\1002674143_1b742ab4b8.jpg,"Greedy Decoding:
+  'a little is is a a in in of . . a a . in'
+
+Beam Search (k=3):
+  'a little is is a a in in of . .'
+
+Beam Search (k=5):
+  'a girl is a a in in of . .'",2026-06-15 09:39:13.452657
+.gradio\flagged\Upload Image\9123e3f7667c777f2739\10815824_2997e03d76.jpg,"Greedy Decoding:
+  'a man is a on on dog bike a a . .'
+
+Beam Search (k=3):
+  'a person is a a on on bike bike'
+
+Beam Search (k=5):
+  'a person is a a on on bike bike'",2026-06-15 09:42:45.509445
